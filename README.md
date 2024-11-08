@@ -29,3 +29,4 @@ Aplikasi Penghitung Diskon adalah aplikasi desktop berbasis Java menggunakan Swi
 - **NetBeans**: Untuk menjalankan dan memodifikasi proyek.
 
 # Demo
+![Demo Aplikasi](Demo.gif)
